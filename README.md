@@ -3,7 +3,7 @@
 ## Building & Running the Docker Image
 
 Build with:
-`docker build . -t `
+`docker build . -t sebinalbert/go-containerized-api:latest`
 
 `docker build --compress -t sebinalbert/go-containerized-api:latest -f <action>.Dockerfile`
 
